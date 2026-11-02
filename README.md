@@ -1,2 +1,5 @@
 # T-Graphene
-Modelagem computacional da estrutura de bandas eletrônicas do T-grafeno para diferentes estados de quadrimerização.
+
+Este repositório apresenta a a modelagem computacional, através do módulo de python pythtb, da estrutura de bandas eletrônicas do T-grafeno para diferentes estados de quadrimerização.
+
+Feito por Aniel de Souza Ribeiro Neto para a disciplina de Matéria Condensado da Ilum Escola de Ciência.
